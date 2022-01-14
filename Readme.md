@@ -14,3 +14,6 @@ http://localhost:8000/
 
 ### Visit phpmyadmin db (if needed):
 http://localhost:8080/
+
+### Take docker containers down:
+docker-compose down
